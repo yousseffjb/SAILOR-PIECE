@@ -6,8 +6,7 @@
     
 
 
-    var dZStT_Egs_GTUHQc={"it":4318759,"key":"ca180"};
-
+var BeQqs_WjR_ZlUNAc={"it":4596576,"key":"508ae"};
 
 
         let selectedReward = "";
